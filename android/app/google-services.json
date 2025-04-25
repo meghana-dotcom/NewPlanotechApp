@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064475737106",
+    "project_id": "notification-86c27",
+    "storage_bucket": "notification-86c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064475737106:android:7978c9f129ca143e24eccb",
+        "android_client_info": {
+          "package_name": "com.audiofusion.audiofusion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafMquleMdaD7Gji_SHEyQZ4OaqCfhKwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064475737106:android:a8a2f71e9336ce1924eccb",
+        "android_client_info": {
+          "package_name": "com.planotech.planotech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBafMquleMdaD7Gji_SHEyQZ4OaqCfhKwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

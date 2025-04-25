@@ -1,0 +1,2 @@
+D:/Planotech/Planotech_android/Planotech_android/android/app/.cxx/Debug/6u6n2kz5/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Planotech/Planotech_android/Planotech_android/android/app/.cxx/Debug/6u6n2kz5/arm64-v8a/CMakeFiles/rebuild_cache.dir

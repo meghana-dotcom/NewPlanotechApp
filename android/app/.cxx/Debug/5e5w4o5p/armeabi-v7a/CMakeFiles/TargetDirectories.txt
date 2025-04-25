@@ -1,0 +1,2 @@
+C:/Users/admin/Music/Planotech_android_test/android/app/.cxx/Debug/5e5w4o5p/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/admin/Music/Planotech_android_test/android/app/.cxx/Debug/5e5w4o5p/armeabi-v7a/CMakeFiles/rebuild_cache.dir

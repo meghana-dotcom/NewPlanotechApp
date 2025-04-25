@@ -1,0 +1,2 @@
+D:/Planotech/Planotech_android/Planotech_android/android/app/.cxx/RelWithDebInfo/2w2py515/x86_64/CMakeFiles/edit_cache.dir
+D:/Planotech/Planotech_android/Planotech_android/android/app/.cxx/RelWithDebInfo/2w2py515/x86_64/CMakeFiles/rebuild_cache.dir
